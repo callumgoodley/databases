@@ -1,0 +1,1 @@
+ 1) SELECT COUNT(ID) FROM city WHERE CountryCode='USA' 2) SELECT Population, LifeExpectancy FROM country WHERE Name = 'Argentina' ETC. I was typing straight into the terminal so don't have them all saved.
